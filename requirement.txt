@@ -1,0 +1,12 @@
+numpy
+torch==1.12.0+cuda113
+opencv-python
+pyyaml
+yacs
+tqdm
+colorama
+matplotlib
+cython
+tensorboardX
+Pillow
+scipy
