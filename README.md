@@ -1,7 +1,7 @@
 # SiamMGT
 
 ## 1. Environment setup
-This code has been tested on Ubuntu 20.04, Python 3.5, Pytorch 1.12.0, CUDA 11.3.
+This code has been tested on Ubuntu 20.04, Python 3.8, Pytorch 1.12.0, CUDA 11.3.
 Please install related libraries before running this code: 
 ```bash
 pip install -r requirements.txt
