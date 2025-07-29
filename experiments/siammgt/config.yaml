@@ -50,12 +50,12 @@ TRAIN:
 
 DATASET:
     NAMES:
-#     - 'VID'
-#     - 'YOUTUBEBB'
-#     - 'COCO'
-#     - 'DET'
-     - 'GOT'
-#     - 'LaSOT'
+    - 'VID'
+    - 'YOUTUBEBB'
+    - 'COCO'
+    - 'DET'
+    - 'GOT'
+    - 'LaSOT'
 
     VIDEOS_PER_EPOCH: 800000
 
