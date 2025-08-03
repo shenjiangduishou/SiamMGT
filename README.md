@@ -116,7 +116,8 @@ python train.py
 ## 4. Evaluation
 
 We provide tracking results for comparison: 
-- SiamMGT/results: [BaiduYun](https://pan.baidu.com/s/1l87NOoAyb2xOuKn_7Lv3Pw) (extract code: t123) 
+- SiamMGT/results: [BaiduYun](https://pan.baidu.com/s/1l87NOoAyb2xOuKn_7Lv3Pw) (extract code: t123)
+- SiamMGT/model.pth:[BaiduYun](https://pan.baidu.com/s/1XO0An-9Y_B7t7VKiO81iYA)(extract code: 317d)
 
 
 If you want to evaluate the tracker on OTB100, UAV123 and LaSOT, please put those results into `results` directory and then run `eval.py` . 
